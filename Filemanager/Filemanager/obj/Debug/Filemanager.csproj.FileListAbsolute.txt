@@ -1,0 +1,62 @@
+c:\users\timetoti\source\repos\Filemanager\Filemanager\bin\Debug\Filemanager.exe
+c:\users\timetoti\source\repos\Filemanager\Filemanager\bin\Debug\Filemanager.pdb
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.Properties.Resources.resources
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.GenerateResource.cache
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.CoreCompileInputs.cache
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.exe
+c:\users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\bin\Debug\Filemanager.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\bin\Debug\Filemanager.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.Form1.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.Form2.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.Properties.Resources.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.GenerateResource.Cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.ResolveComReference.cache
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.ResolveComReference.cache
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.Userbasework.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.CreatingDoc.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.BeginingForm.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.MiddleForm.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.DetailsForm.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.DocHistory.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.Letterofattorney.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.Recruitment.resources
+C:\Users\timetoti\source\repos\Filemanager\Filemanager\obj\Debug\Filemanager.Vacation.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\bin\Debug\Filemanager.exe
+C:\Users\boris\Desktop\Filemanager\Filemanager\bin\Debug\Filemanager.pdb
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.ResolveComReference.cache
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.CreatingDoc.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.BeginingForm.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.DocHistory.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.Letterofattorney.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.Recruitment.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.MiddleForm.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.DetailsForm.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.Vacation.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.Properties.Resources.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.Userbasework.resources
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.GenerateResource.Cache
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.exe
+C:\Users\boris\Desktop\Filemanager\Filemanager\obj\Debug\Filemanager.pdb
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\bin\Debug\Filemanager.exe
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\bin\Debug\Filemanager.pdb
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.csprojResolveAssemblyReference.cache
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.ResolveComReference.cache
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.CreatingDoc.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.BeginingForm.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.DocHistory.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.Letterofattorney.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.Recruitment.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.MiddleForm.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.DetailsForm.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.Vacation.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.Properties.Resources.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.Userbasework.resources
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.csproj.GenerateResource.Cache
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.exe
+C:\Users\boris\Desktop\Документы и тому подобная хрень\3 семестр\Filemanager\Filemanager\obj\Debug\Filemanager.pdb
